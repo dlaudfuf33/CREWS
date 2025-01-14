@@ -1,0 +1,9 @@
+[submodule "Crews-FE"]
+	path = Crews-FE
+	url = https://github.com/dlaudfuf33/Crews-FE.git
+[submodule "Crews-BE-Service"]
+	path = Crews-BE-Service
+	url = https://github.com/dlaudfuf33/Crews-BE-Service.git
+[submodule "Crews-BE-Core"]
+	path = Crews-BE-Core
+	url = https://github.com/dlaudfuf33/Crews-BE-Core.git
